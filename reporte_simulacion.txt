@@ -1,0 +1,57 @@
+==================================================
+   REPORTE TÉCNICO: AUTOMATIZACIÓN DE ARCHIVOS    
+==================================================
+
+📊 ESTADÍSTICAS GENERALES DE CLASIFICACIÓN
+• Total de archivos procesados: 12
+  - Documentos: 3 archivo(s) (25.0%)
+  - Imagenes: 1 archivo(s) (8.3%)
+  - Videos: 1 archivo(s) (8.3%)
+  - Audios: 0 archivo(s) (0.0%)
+  - Ejecutables: 0 archivo(s) (0.0%)
+  - Comprimidos: 0 archivo(s) (0.0%)
+  - Otros: 7 archivo(s) (58.3%)
+
+--------------------------------------------------
+
+📂 DETALLE DE MOVIMIENTOS POR CATEGORÍA
+
+[+] Carpeta Destino: Documentos
+------------------------------------------
+    • datos.csv
+    • documento1.txt
+    • reporte_antiguo.csv
+
+[+] Carpeta Destino: Imagenes
+------------------------------------------
+    • imagen1.png
+
+[+] Carpeta Destino: Videos
+------------------------------------------
+    • video_test.mp4
+
+[+] Carpeta Destino: Audios
+------------------------------------------
+    (No se procesaron archivos para esta categoría)
+
+[+] Carpeta Destino: Ejecutables
+------------------------------------------
+    (No se procesaron archivos para esta categoría)
+
+[+] Carpeta Destino: Comprimidos
+------------------------------------------
+    (No se procesaron archivos para esta categoría)
+
+[+] Carpeta Destino: Otros
+------------------------------------------
+    • analyzer.py
+    • auditor.py
+    • desconocido.xyz
+    • main.py
+    • organizer.py
+    • reports.py
+    • utils.py
+
+==================================================
+           FIN DEL REPORTE AUTOMÁTICO            
+==================================================
