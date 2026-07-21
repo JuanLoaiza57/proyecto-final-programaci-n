@@ -1,0 +1,5 @@
+[20/07/2026 21:50:31] Error creando snapshot: La carpeta no existe.
+[20/07/2026 21:50:31] Función 'crear_snapshot' ejecutada correctamente (0.0006 segundos)
+[20/07/2026 21:50:34] Error creando snapshot: La carpeta no existe.
+[20/07/2026 21:50:34] Función 'crear_snapshot' ejecutada correctamente (0.0007 segundos)
+[20/07/2026 21:50:34] ERROR en 'ejecutar_auditoria': name 'comparar_snapshots' is not defined

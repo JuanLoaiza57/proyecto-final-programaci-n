@@ -83,7 +83,7 @@ def main():
         elif opcion == "4":
             limpiar_pantalla()
             print("[+] MÓDULO DE AUDITORÍA Y LOGS\n")
-            # Aquí invocará tu compañero su lógica de auditor.py
+            auditor.ejecutar_auditoria()
             input("\nPresione Enter para volver al menú principal...")
             
         elif opcion == "5":
